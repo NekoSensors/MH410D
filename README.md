@@ -10,7 +10,9 @@ Sensor Datasheet (+ Protocol) - [MH-410D.PDF](docs%2FMH-410D.PDF)
 
 ## Installation
 
-You can install the library via pip:
+1. Download CP210x Driver
+
+2. You can install the library via pip:
 
 ```bash
 pip install MH410D
